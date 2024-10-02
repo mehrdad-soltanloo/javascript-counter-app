@@ -5,4 +5,4 @@
 *.css linguist-detectable=false
 
 # You can add more file types as necessary
-*.html linguist-language=HTML
+*.html linguist-language=false
